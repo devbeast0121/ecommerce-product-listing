@@ -60,12 +60,7 @@ Done in 3.82s.
 
 3. The code should written in Typescript and should be Type saved. 
 
-4. Create a product listing page that displays the fetched product data in a grid layout. Each product card should include:
-    ○ Product image
-    ○ Product name
-    ○ Product description (truncate to 100 characters)
-    ○ Price (formatted with currency)
-    ○ Rating (display using stars or a numerical value)
+4. Create a product listing page that displays the fetched product data in a grid layout.
 
 5. Implement infinite scroll for the product listing.  Limit the initial page to display only 10 products, and load more as the user interacts with the page.
 
