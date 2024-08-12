@@ -97,6 +97,38 @@ const products: Product[] = [
         price: 24.99,
         rating: 4.6,
         image: '/assets/images/Product_1.png',
+    },
+    {
+        id: 13,
+        title: 'Product 13',
+        description: 'This is a description',
+        price: 21.99,
+        rating: 4.2,
+        image: '/assets/images/Product_4.png',
+    },
+    {
+        id: 14,
+        title: 'Product 14',
+        description: 'This is a description',
+        price: 22.99,
+        rating: 4.1,
+        image: '/assets/images/Product_3.png',
+    },
+    {
+        id: 15,
+        title: 'Product 15',
+        description: 'This is a description',
+        price: 23.99,
+        rating: 4.7,
+        image: '/assets/images/Product_2.png',
+    },
+    {
+        id: 16,
+        title: 'Product 16',
+        description: 'This is a description',
+        price: 24.99,
+        rating: 4.6,
+        image: '/assets/images/Product_1.png',
     }
 
 ];
